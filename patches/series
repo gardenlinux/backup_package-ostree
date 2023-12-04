@@ -1,2 +1,2 @@
-debugPrintUpgrade.diff
-mkdirSysroot.diff
+debugPrintUpgrade.patch
+ostree-prepare-root.patch
